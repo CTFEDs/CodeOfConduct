@@ -1,6 +1,6 @@
 # Code of Conduct
 
-CTFEDs meetups are community events for networking in Cape Town Front End developer community. We value the participation of each member of the community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees. To make clear what is expected, all attendees are required to conform to this Code of Conduct. Organisers will enforce this code throughout events.
+CTFEDs meetups are community events for networking in the Cape Town Front End developer community. We value the participation of each member of the community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees. To make clear what is expected, all attendees are required to conform to this Code of Conduct. Organisers will enforce this code throughout events.
 
 We are dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, religion, native language, operating system choice or prior experience. We do not tolerate harassment of attendees in any form. Sexual language and imagery is not appropriate for any venue. Attendees violating these rules may be sanctioned or expelled from an event or virtual forum at our discretion.
 
